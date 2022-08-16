@@ -15,21 +15,21 @@ Sample Package management rest api
 
 
 ## Features
-call api
-management api
-clean code
-refresh token
+call api <br /> 
+management api <br /> 
+clean code <br /> 
+refresh token <br /> 
 
 ## Packages
 dio
 
 ## Getting started
-1.add routs api in file api_routs.dart
-2.add status code as for yourself rest api
-3.change model return_response  as for model return yourSelf rest api
-4.change model user_information as for your needs
-5.add function api your needs in  file api_repository.dart as for example
-6.listen to status in api_direct_app for store token and refresh token or logout as app;
+1.add routs api in file api_routs.dart <br /> 
+2.add status code as for yourself rest api <br /> 
+3.change model return_response  as for model return yourSelf rest api <br /> 
+4.change model user_information as for your needs <br /> 
+5.add function api your needs in  file api_repository.dart as for example <br /> 
+6.listen to status in api_direct_app for store token and refresh token or logout as app <br /> 
 
 
 
